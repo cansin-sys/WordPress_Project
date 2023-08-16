@@ -9,6 +9,6 @@ mysql_user: "sammy"
 mysql_password: "password"
 
 #HTTP Settings
-#http_host: "host"
-#http_conf: "host.conf"
+http_host: "host"
+http_conf: "host.conf"
 http_port: "80"
